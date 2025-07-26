@@ -2,6 +2,7 @@
 OBJECTIVES
 
 Profiling and preparing the raw data for analysis
+
 Exploring the data with Excel pivot Tables
 
 
